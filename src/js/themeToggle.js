@@ -6,7 +6,6 @@ const Theme = {
 
 themeToggleEl.addEventListener('click', toggleClickHandler);
 
-
 currentThemeState();
 
 function toggleClickHandler() {
